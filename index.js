@@ -20,7 +20,7 @@ const file =
         {
             "id": 1,
             "name": "Michael Jackson",
-            "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1527174744973-fc9ce02c141d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
             "intro": "Expertise in accounting and finance, specializing in financial statements and auditing.",
             "rating": 4.8,
             "reviewCount": 89,
@@ -43,7 +43,7 @@ const file =
         {
             "id": 2,
             "name": "Lucy Brown",
-            "image": "https://images.unsplash.com/photo-1556746818-17b142980bb2?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1511350333854-21bcdf3088c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Dedicated accountant with expertise in taxation and corporate finance.",
             "rating": 4.5,
             "reviewCount": 75,
@@ -66,7 +66,7 @@ const file =
         {
             "id": 3,
             "name": "Robert Smith",
-            "image": "https://images.unsplash.com/photo-1517433456452-f9633a875fbc?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1498673394965-85cb14905c89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Experienced in overseeing financial management of medium to large enterprises.",
             "rating": 4.6,
             "reviewCount": 65,
@@ -96,7 +96,7 @@ const file =
         {
             "id": 4,
             "name": "Anita Patel",
-            "image": "https://images.unsplash.com/photo-1563990112129-a9a72c04f5d7?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Passionate about helping startups navigate the complexities of financial compliance.",
             "rating": 4.9,
             "reviewCount": 95,
@@ -119,7 +119,7 @@ const file =
         {
             "id": 5,
             "name": "Johnathan Lee",
-            "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Expert in streamlining business operations with financial acumen.",
             "rating": 4.5,
             "reviewCount": 72,
@@ -146,7 +146,7 @@ const file =
         {
             "id": 6,
             "name": "Sophia Fernandez",
-            "image": "https://images.unsplash.com/photo-1581091226825-c6a89e7e4801?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Champion in guiding SMEs through their financial journeys with transparency and integrity.",
             "rating": 4.8,
             "reviewCount": 88,
@@ -169,7 +169,7 @@ const file =
         {
             "id": 7,
             "name": "William O'Connell",
-            "image": "https://images.unsplash.com/photo-1542751371-6533d14d705f?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Master of tax strategy and international finance regulations.",
             "rating": 4.6,
             "reviewCount": 78,
@@ -196,7 +196,7 @@ const file =
         {
             "id": 8,
             "name": "Nina Johansson",
-            "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Specializes in financial forensics and fraud examination.",
             "rating": 4.9,
             "reviewCount": 92,
@@ -223,7 +223,7 @@ const file =
         {
             "id": 9,
             "name": "Oliver Bernard",
-            "image": "https://images.unsplash.com/photo-1579637305941-57a5d3807b1d?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "intro": "Dedicated to empowering non-profits with financial strategies and sustainability.",
             "rating": 4.7,
             "reviewCount": 85,
@@ -250,7 +250,7 @@ const file =
         {
             "id": 10,
             "name": "Isabella Martinez",
-            "image": "https://images.unsplash.com/photo-1588392382834-a891154bca4d?fit=crop&w=800&q=80",
+            "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2144&q=80",
             "intro": "Expert in mergers, acquisitions, and corporate restructuring with a decade of experience.",
             "rating": 4.8,
             "reviewCount": 90,
@@ -298,3 +298,13 @@ app.get("/get-partner", (req,res)=>{
         if(x.id == id) res.send(x);
     })
 });
+
+app.get("/get-rec", (req,res)=>{
+    let results = [];
+    let rand = Math.trunc(Math.random()*6);
+    file.forEach((x)=>{
+        results.push(x);
+    });
+
+    res.send(results.slice(rand,rand+3));
+})
