@@ -278,13 +278,12 @@ const file =
 
 app.get("/get-results", (req,res)=>{
     let name = req.query.name;
-
-    let results = {};
+    if(!name) res.send([]);
+    let results = [];
 
     file.forEach((x)=>{
-        if(x.name.includes(name)){
-            let colName = x.name;
-            results[colName] = x;
+        if(x.name.toLowerCase().includes(name.toLowerCase())){
+            results.push(x);
         }
     })
 
